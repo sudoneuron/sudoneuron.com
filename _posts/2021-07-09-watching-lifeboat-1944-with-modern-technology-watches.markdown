@@ -5,7 +5,7 @@ date:   2021-07-09 21:33:07 -0700
 categories: updates
 ---
 **WARNING: THIS BLOG POST MAY CONTAIN SPOILERS. YOU HAVE BEEN WARNED.**
-![Film Poster for Lifeboat (1944)](/img/Lifeboat1.jpg)
+![Film Poster for Lifeboat (1944)](/img/Lifeboat1.jpg)  
 A couple of months ago I realized that Rob Vincent (AKA [Rob T. Firefly](https://twitter.com/rob_t_firefly)) and his wife [Gila Drazen](https://twitter.com/gilahava704) had a podcast called *[Modern Technology Watches](https://modern.technology/)* where they take turn introducing each other to films the other hasn't seen and then make a spoiler-filled podcast about the film. I was first introduced to Rob and Gila through their recurring roles on the classic hacker radio show *[Off the Hook](https://www.2600.com/offthehook/)* which I have been listening to since the 90s (back when RealAudio was a very real thing). Rob describes himself as "an artist, performer, writer, comedian, journalist, engineer, hacker, voice actor, improvisor, editor, producer, and nerd of all trades." Gila describes herself as "a hacker-adjacent writer, singer, and amateur pop-culture historian."
 
 When I first heard about Modern Technology Watches, I committed myself to (eventually) finding the time to start from the beginning and watch each film they discuss before listening to the podcast episode about that film, and then writing a short blog post about that film. I am honestly terrible at putting time aside to watch films, so I thought this may be a way to inspire me to devote the time to watching some movies and becoming a bit more acquainted with some Hollywod classincs (most of which I have not seen). That time has finally come, and the first film was the 1944 classic *Lifeboat*.
