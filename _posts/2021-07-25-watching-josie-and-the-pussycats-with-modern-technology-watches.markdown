@@ -7,7 +7,7 @@ categories: updates
 **WARNING: THIS BLOG POST MAY CONTAIN SPOILERS.**
 ![Film Poster for Josie and the Pussycats (2001)](/img/JosieAndThePussycats.jpg)
 
-In the episode 7 of season 1 of *[Modern Technology Watches](https://modern.technology/)* with Rob Vincent (AKA [Rob T. Firefly](https://twitter.com/rob_t_firefly)) and [Gila Drazen](https://twitter.com/gilahava704) watched and discussed *Josie and the Pussycats*. As you've probably deduced by now, so did I.
+In the episode 7 of season 1 of *[Modern Technology Watches](https://modern.technology/)*, Rob Vincent (AKA [Rob T. Firefly](https://twitter.com/rob_t_firefly)) and [Gila Drazen](https://twitter.com/gilahava704) watched and discussed *Josie and the Pussycats*. As you've probably deduced by now, so did I.
 
 This podcast episode goes on a few tangents with some really fun discussions about [the time MTV tried to do a story on hackers and got pranked in the process](https://www.zdnet.com/article/mtv-made-to-look-ridiculous-by-fake-hacker/), a bit of history on [Moviefone](https://en.wikipedia.org/wiki/Moviefone) (a service I remember well, which apparently still exists but no longer on the phone), and Gila's love for Alan Cumming. As for the discussion of *Josie and the Pussycats* itself, Gila loved it when it came out and still does; Rob on the other hand "hated this movie." 
 
