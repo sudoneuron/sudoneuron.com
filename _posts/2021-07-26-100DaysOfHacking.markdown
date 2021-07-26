@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Looking Back On #100DaysOfHacking"
+date:   2021-07-26 10:31:12 -0700
+categories: updates
+---
+Back in February of 2021 I decided to undertake a self-imposed Twitter challenge I called #100DaysOfPayphones (a story for another time). When I reached day 50 of that endeavor, I decided to undertake not one, but two more 100-day challenges—#100DaysOfHacking and #100DaysOfCode. It soon became apparent that I had bitten off more than I could chew and I abandoned the #100DaysOfCode endeavor (for the time) to focus on #100DaysOfPayphones and #100DaysOfHacking. I am proud to say that as of yesterday, I have completed #100DaysOfHacking (and for clarification I had successfully completed #100DaysOfPayphones 50 days prior to that). Over the past 100 days I have learned a lot, but technically and personally.
+
+For the first 8 days I worked on the [Over The Wire: Bandit CTF](https://overthewire.org/wargames/bandit/), and then I started working my way through the [TryHackMe](https://tryhackme.com) site. Initially I was aiming to finish the Complete Beginner Learning Path (a task [I successfully completed](https://sudoneuron.com/updates/2021/07/04/TryHackMe-complete-beginners-path-certificate.html) in late June), but after a few days of that I learned that many of the rooms required a premium subscription to complete. 
+
+Around the same time, the world lost [Daniel Daminsky](https://en.wikipedia.org/wiki/Dan_Kaminsky)—a beloved hacker and by all accounts an all around amazing person. In the aftermath of Daniel's death, John Jackson (AKA [johnjhacking](https://twitter.com/johnjhacking)—founder of the hacker group [Sakura Samurai](https://sakurasamurai.pro/)—gave out a bunch of one-month TryHackMe vouchers on Twitter, and I was honored to become one of those recipients.
+
+This act of generosity by John Jackson led to me being able to continue working on the TryHackMe Complete Beginner Path, and ultimately led to me purchasing my own premium subscription to get me through the rest of my 100-day challenge.
+
+Around the same time that I finished the Complete Beginner Learning Path, TryHackMe launched a new Pre Security Learning Path, [which I also completed](https://sudoneuron.com/updates/2021/07/04/TryHackMe-pre-security-learning-path.html) quite quickly. Stil having some remaining days on my challenge, I decided to go for a third certificate, this time for [completing the Cyber Defense Learning Path](https://sudoneuron.com/updates/2021/07/21/TryHackMe-cyber-defense-certificate.html).
+
+After that I realized I was not far from also earning a certificate of completion for the [Web Fundamentals Learning Path](https://sudoneuron.com/updates/2021/07/22/TryHackMe-web-fundamentals-certificate.html), so I worked through that as well.
+
+At this point I only had a few days left and didn't want to leave the TryHackMe platform because I was so close to earning the 90 Day Streak badge. I set my sights on the Offensive Pentesting Learning Path. I realized that in order to complete that before my 100 days ran up, it would require more than the 1-3 hours of day of hacking that I had become accustomed to on most days. I then quickly discovered that I was only one room away from completing the CompTIA Pentest+ Learning Path, so I finished that up and [I earned that certificate](https://sudoneuron.com/updates/2021/07/24/TryHackMe-comptia-pentest-plus-certificate.html) as I continued to work on the Offensive Pentesting rooms. Spending the the last few days of the challenge hacking away for 8-12 hours a day, on day 100 of my 100-day challenge, [I finally earned the Offensive Pentester Learning Patch certificate](https://sudoneuron.com/updates/2021/07/25/TryHackMe-offensive-pentesting-certificate.html).
+
+I had only set out to complete one learning path and earn one certificate, but instead I ended up completing six learning paths and earning six certificates—which is all the learning paths TryHackMe currently has to offer. By the end of it all I had found that I had climbed into the top 1% of all TryHackMe users, and after doing a couple of other additional rooms I also had climbed to Level 11 ([0xB][MASTER]) in the TryHackMe ranking.
+
+![My TryHackMe stats as of 26 July, 2021.](/img/THM-Stats.png "My TryHackMe stats as of 26 July, 2021.")
+
+These last 100 days have been hard. They got harder as things went on, not only because the material became increasingly complex, the time spent working on a room continued to grow, but also because I was burnt out. Somewhere around day 70 of this challenge it became apparent that this was not my calling. I had been hoping to learn skills to try to get into the information security workforce, but I came to learn that I couldn't see myself doing that long-term. 
+
+I have long considered myself a hacker. I view hacking as a way of looking at and interacting with the world around you, not as a certain career path or specific set of skills. While hacking is often equated these days with network and system penetration and exploitation, I believe that while many hackers do these things, that alone does not make someone a hacker; and there are many hackers that have no interest in network and system penetration and exploitation. I am grateful for all that I learned over the last 100 days, but most especially for learning that while I am a hacker, I am not cut out to be a cyber security professional. 
