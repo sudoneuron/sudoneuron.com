@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some Like It Hot (1959) with Modern Technology Watches"
-date: 2021-07-27 19:06:00 -0700
+date: 2021-07-30 15:41:00 -0700
 categories: updates
 ---
 **WARNING: THIS BLOG POST MAY CONTAIN SPOILERS.**
